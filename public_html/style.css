@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 3 May 2023, 11:05:18 am
+    Author     : abdulmac
+*/
+
+body{
+    margin: 100px;
+}
+h{
+    background-color: graytext;
+}
+.first{
+    background-color: beige;
+    padding: 10px;
+}
+#second{
+    background-color: blueviolet;
+    text-align: center;
+}
+
